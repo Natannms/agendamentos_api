@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "nilma",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "port":"6717",
+    "username": "root",
+    "password": "g4bRCwrhnQLiLLABQspX",
+    "database": "teste",
+    "host": "containers-us-west-51.railway.app",
+    "dialect": "mysql"
+  },
+  "production": {
+    "port":"6717",
+    "username": "root",
+    "password": "g4bRCwrhnQLiLLABQspX",
+    "database": "nilma",
+    "host": "containers-us-west-51.railway.app",
+    "dialect": "mysql"
+  }
+}
